@@ -12,6 +12,6 @@ Welcome to my coding playground on GitHub. This is where I experiment, learn, an
 
 🔍 **Seeking Feedback:** I'm open to constructive criticism and suggestions. Feedback is a crucial part of the learning journey.
 
-💬 **Let's Connect:** If you have questions, ideas, or just want to chat about tech, you can reach me at [Your Email Address].
+💬 **Let's Connect:** If you have questions, ideas, or just want to chat about tech, you can reach me at v.dmitriev0712@gmail.com
 
 ⚡ **Fun Fact:** I find inspiration in challenges, and coding is my way of turning them into opportunities.
